@@ -40,10 +40,10 @@ The election commission of Colorado has requested additional data to complete th
 ## Election-Audit Summary:
 
     This script is a useful and efficient tool for election commmission to analyze large data set. 
-    This script can be used for any electoral dataset by making some adjustments. Here are two examples:
+    This script can be used for any electoral dataset by making some adjustments. 
+    Here are two examples:
     • Changeing the county to cities or states, it can be used for a state or federal election. 
-    • 
-
-
+    • In case of a different structure of the data set, this scipt can be easily converted by 
+      changing the line of code candidate_name = row[2] and county_name = row[1]. 
 
 
