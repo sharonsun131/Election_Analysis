@@ -21,6 +21,8 @@ The election commission of Colorado has requested additional data to complete th
  •	Which county had the largest number of votes?
  
     Denver has the largest number of votes, which is 82.8% for a total of 306,055 voters. 
+    
+![Screen Shot 2022-04-24 at 12 13 48 PM (2)](https://user-images.githubusercontent.com/102264298/164988271-a690f754-8c35-422c-8cc1-90763462b973.png)
 
  •	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
  
@@ -34,7 +36,7 @@ The election commission of Colorado has requested additional data to complete th
  •	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
  
     Diana DeGetteis is the winner, who received 73.8% of the vote for a total of 272,892 votes.    
-
+    
 ## Election-Audit Summary:
 
     This script is a useful and efficient tool for election commmission to analyze large data set. 
